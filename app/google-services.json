@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1066772519596",
+    "project_id": "multiverrereservation",
+    "storage_bucket": "multiverrereservation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066772519596:android:d48422af68094532b89d09",
+        "android_client_info": {
+          "package_name": "com.example.multiverrereservationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066772519596-md04rs7s1bhfds1frpp3ncii5m4bsfbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multiverrereservationapp",
+            "certificate_hash": "afc15156c3a8011bb46a278d696ff5a6813e5c73"
+          }
+        },
+        {
+          "client_id": "1066772519596-1rcgjvqn648b2mg6o83eahd75n83dsn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3U2HU5eLwgLcjdm6gQQRAxq_5DeJIHHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066772519596-1rcgjvqn648b2mg6o83eahd75n83dsn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
